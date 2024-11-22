@@ -5,10 +5,7 @@ Welcome to my Python learning repository! This is where I document my journey in
 ## Table of Contents
 1. [About This Repository](#about-this-repository)
 2. [Projects](#projects)
-3. [Exercises](#exercises)
-4. [Notes](#notes)
-5. [Resources](#resources)
-6. [Contact](#contact)
+3. [Contact](#contact) 
 
 ## About This Repository
 
